@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/climate_diagnostics.egg-info/PKG-INFO
+src/climate_diagnostics.egg-info/SOURCES.txt
+src/climate_diagnostics.egg-info/dependency_links.txt
+src/climate_diagnostics.egg-info/requires.txt
+src/climate_diagnostics.egg-info/top_level.txt
+src/climate_diagnostics_package/__init__.py
+src/climate_diagnostics_package/climatology.py
+tests/tests_climatology.py
