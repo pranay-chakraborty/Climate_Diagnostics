@@ -8,4 +8,4 @@ src/climate_diagnostics.egg-info/requires.txt
 src/climate_diagnostics.egg-info/top_level.txt
 src/climate_diagnostics_package/__init__.py
 src/climate_diagnostics_package/climatology.py
-tests/tests_climatology.py
+tests/test_climatology.py
