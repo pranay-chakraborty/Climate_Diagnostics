@@ -55,7 +55,7 @@ class ClimatologyPlotter:
         """
         # if dim not in self.dataset.dims:
         #     raise ValueError(f"Dimension '{dim}' not found in the dataset.")
-        return data.mean(dim=dim)
+        return self.dataset.mean(dim=dim)
 
 
     def compute_anomalies(self, data, variable, dim="time"):
